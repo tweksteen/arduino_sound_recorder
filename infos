@@ -1,0 +1,8 @@
+
+Setting ADC frequency
+from 125KHz to 1MHz
+   @125 KHz: 13 cycles * 8 usec = 104 usec per sample => 9600  Hz
+   @256 KHz:             4      = 52                  => 19200 Hz
+   @500 KHz:             2      = 26                  => 38400 Hz
+
+
